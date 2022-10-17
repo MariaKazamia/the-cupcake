@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+.icon{
+    width: 400px; 
+    height: 200px;
+    margin: 0px 200px 10px 200px;
+    border: 10px solid burlywood;
+}
