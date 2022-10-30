@@ -1,3 +1,31 @@
+
 body {
     font-family: sans-serif;
+    background-color: lightsalmon;
+}
+header{
+    background-color: bisque;
+    border: 20px double black;
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.heading2{
+    border: 10px double black;
+    background-color: bisque;
+    margin-right: 500px;
+    padding: 10px;
+}
+.icon{
+    width: 400px; 
+    height: 200px;
+    margin: 0px 300px 10px 300px;
+    border: 10px solid bisque;
+}
+.icon2{
+    float: right;
+    width: 250px;
+    height: 300px;
 }
